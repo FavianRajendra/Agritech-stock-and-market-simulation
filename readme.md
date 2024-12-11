@@ -15,4 +15,4 @@ Welcome to **AgriTech Solutions: Market Simulation**! This app simulates the neg
 - **Matplotlib**: For visualizing data, such as the negotiation rounds.
 
 ## 🌼 How to Run the App
-Simply just clone the repository or go to this link agritech.streamlit.app
+Simply just clone the repository or go to this link agritechapps.streamlit.app
